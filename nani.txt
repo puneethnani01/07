@@ -1,0 +1,6 @@
+it is a plotform indepedent 
+it is rich for apis
+language 
+demo.c 
+compiler
+windows
